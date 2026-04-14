@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "Manish Malviya",
+        "email": "manish@example.com",
+        "message": "This is a sample message"
+    },
+    {
+        "id": 2,
+        "name": "Jane Smith",
+        "email": "jane@example.com",
+        "message": "Another sample message"
+    },
+    {
+        "id": 3,
+        "name": "Bob Johnson",
+        "email": "bob@example.com",
+        "message": "Third sample message"
+    }
+    ,
+    {
+        "id": 3,
+        "name": "Bob Johnson",
+        "email": "bob@example.com",
+        "message": "Fourth sample message"
+    }
+]
